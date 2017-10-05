@@ -124,15 +124,7 @@ font-size: 20px;
 	font-family: 'Courier', sans-serif;
 	font-weight: bold;
 	color: #FFFFFF ;
-	font-size:150%;
-	}
-	
-	h1.jumbotron-terminal-intro { 
-	/*font-family: "LeagueGothicRegular","Helvetica Neue","Helvetica","Arial";*/
-	font-family: 'Courier 10 Pitch', sans-serif;
-	font-weight: bold;
-	color: #FFFFFF ;
-	font-size:140%;
+	font-size:200%;
 	}
 	
 	.jumbotron{
