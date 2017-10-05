@@ -100,9 +100,9 @@ font-size: 20px;
     /* CSS goes here */
 	.navbar {
 	height: 1vh;
-	background-color: #1a1a1aff;
-	background: #1a1a1aff;
-	border-color: #1a1a1aff;
+	background-color: #1A1A1A;
+	background: #1A1A1A;
+	border-color: #1A1A1A;
 	z-index: 2;
 	padding-top:0px;
 	padding-bottom:0px;
@@ -140,7 +140,8 @@ font-size: 20px;
 	height: 40vh;
 	/*background:#88888;*/
 	display:table;
-	background-color:#1a1a1aff;
+	background-color:#1A1A1A;
+	background:#1A1A1A;
 }
 	
 	
@@ -151,11 +152,11 @@ font-size: 20px;
   height: 40vh;
   /*background:#88888;*/
   display:table;
-  background-color:#1a1a1aff;
+  background-color:#1A1A1A;
 }
 
 .bg-image {
-  background-color:#1a1a1aff;
+  background-color:#1A1A1A;
    -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
